@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>primeira pagina</title>
+    </head>
+    <body>
+        <header>cabecalho</header>
+        <nav>menu</nav>
+        <section>secao 01</section>
+        <section>secao 02</section>
+        <section>secao 03</section>
+        <footer>rodape</footer>
+    </body>
+</html>

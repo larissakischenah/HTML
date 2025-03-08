@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>Gestão Baseada em Evidências</title>
+    </head>
+<!-- Comentário-->
+    <body>
+        <header><h1>Indicadores Hospitalares - <i>KPIs</i></h1></header>
+        <nav>Menu</nav><hr>
+        <section><p><b>Seção 01: Indicadores Estratégicos</p></section></b>
+        <section><p><b>Seção 02: Indicadores Táticos</section></b></p>
+        <section><p><b>Seção 03: Indicadores Operacionais</b></p></section><hr>   
+        <footer>Rodapé</footer>
+    </body>
+</html>
